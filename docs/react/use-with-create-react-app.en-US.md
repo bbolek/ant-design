@@ -21,7 +21,7 @@ Create a new project named `antd-demo`.
 $ create-react-app antd-demo
 ```
 
-The tool will create and initialize environment and dependencies automaticly,
+The tool will create and initialize environment and dependencies automatically,
 please try config your proxy setting or use other npm registry if any network errors happen during it.
 
 Then we go inside `antd-demo` and start it.
